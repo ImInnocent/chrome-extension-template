@@ -5,8 +5,6 @@
 
 </div>
 
-**사이트 링크**: https://cheers-coffee-front.vercel.app/
-
 ## 🖥 기술 스택
 <div align="center">
   <img src="https://img.shields.io/badge/React-41BADB?style=flat-square&logo=react&logoColor=white" />
