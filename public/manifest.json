@@ -1,0 +1,13 @@
+{
+  "name": "Chrome Extension Template",
+  "description": "",
+  "version": "1.0",
+  "manifest_version": 3,
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "action": {
+    "default_title": "Chrome Extension Template",
+    "default_popup": "index.html"
+  }
+}
